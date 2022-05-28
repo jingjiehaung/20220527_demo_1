@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="l?Zw+df9T:`2l/L?12c-" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="_/#eiQ6y}pNv0V,5.))W"><value name="COND"><shadow type="logic_boolean" id="e449]}zJy0}ayB}Uu=qJ"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="[Jo1bsfPgf]~E[?WFuw]"><field name="LEDS">`
+        # . . . . 
+        . # . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="device_pause" id="MBZ969xeu6!*WZCRA02E"><value name="pause"><shadow type="timePicker" id="cycwC_):{09kIT2E@M(2"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="it/=LgI1cXDPM/Tfj7}0"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # . 
+        # . # . . 
+        . # . . .
+        `</field><next><block type="device_pause" id="oT4W~d6eEkJa`jy;p]]n"><value name="pause"><shadow type="timePicker" id="N0pk:{0M[EV9usuIIMXx"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
